@@ -175,6 +175,8 @@ int main( void )
 	madelynsSentence1();
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
+	btscnb_sent1();
+	btscnb_sent2();
 	wjbz82_second();
 	vlb5b_second(); 
 	bjt2p3_print();
